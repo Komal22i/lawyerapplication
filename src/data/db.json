@@ -1,0 +1,140 @@
+{
+
+    "law_firms": [
+    {
+      "name" : "Legal Square Law firm",
+      "id" : 1,
+      "employees" : [
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mr. Gagan",
+          "speciality" : "divorce lawyer",
+          "price" : 5000,
+          "id" : 1  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Miss Sunaina",
+          "speciality" : "criminal lawyer",
+          "price" : 7000,
+          "id" : 2  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mr. Kundan",
+          "speciality" : "property  lawyer",
+          "price" : 9000,
+          "id" : 3  
+        }
+  
+      ]
+      
+    },
+    {
+      "name" : "Corrida Legal - Law firm",
+      "id" : 2,
+      "employees" : [
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mr. Amit",
+          "speciality" : "divorce lawyer",
+          "price" : 5000,
+          "id" : 4  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Anjali ",
+          "speciality" : "criminal lawyer",
+          "price" : 7000,
+          "id" : 5  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Keerti",
+          "speciality" : "property  lawyer",
+          "price" : 9000,
+          "id" : 6  
+        }
+  
+      ] 
+    },
+    {
+      "name" : "Link Legal",
+      "id" : 3,
+      "employees" : [
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Sweeti",
+          "speciality" : "divorce lawyer",
+          "price" : 5000,
+          "id" : 7  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Surbhi",
+          "speciality" : "criminal lawyer",
+          "price" : 7000,
+          "id" : 8  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Tanya",
+          "speciality" : "property  lawyer",
+          "price" : 9000,
+          "id" : 9  
+        }
+  
+      ] 
+    },
+    {
+      "name" : "Kim & Co.",
+      "id" : 4,
+      "employees" : [
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Shivangi",
+          "speciality" : "divorce lawyer",
+          "price" : 5000,
+          "id" : 10  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Jyoti",
+          "speciality" : "criminal lawyer",
+          "price" : 7000,
+          "id" : 11 
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mr. Ram",
+          "speciality" : "property  lawyer",
+          "price" : 9000,
+          "id" : 12  
+        }
+  
+      ] 
+    },
+    {
+      "name" : "MK Law Firm",
+      "id" : 5,
+      "employees" : [
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mr. Mahesh",
+          "speciality" : "divorce lawyer",
+          "price" : 5000,
+          "id" : 13  
+        },
+        {
+          "image" : "https://picsum.photos/200",
+          "name" : "Mrs. Komal",
+          "speciality" : "criminal lawyer",
+          "price" : 7000,
+          "id" : 14  
+        }
+      ] 
+    } 
+  ]
+  
+  
+  }
